@@ -21,3 +21,9 @@ JavaScript (.js) ──(V8 엔진 / JIT 컴파일)──> 기계어 (010101...) 
 npm init
 npm i typescript
 ```
+
+package.json : 프로젝트 메타디이터 및 의존성 요구사항 정의
+
+package-lock.json : 설치된 전체 의존성 트리의 명확한 버전 고정 
+
+node_modules : 설치된 패키지의 실제 소스 코드 및 바이너리 저장
