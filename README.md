@@ -14,3 +14,10 @@ TypeScript (.ts) ──(tsc 컴파일러)──> JavaScript (.js)
 [2단계: 런타임 실행]
 JavaScript (.js) ──(V8 엔진 / JIT 컴파일)──> 기계어 (010101...) ──> CPU 실행
 ```
+
+### typescript compiler 설치 방법
+
+```
+npm init
+npm i typescript
+```
